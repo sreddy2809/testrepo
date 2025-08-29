@@ -1,3 +1,3 @@
 Containers:
-- name: v1
+- name: c1
   image: RPL_IMAGE
